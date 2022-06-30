@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="change_color_test.change_color_test">
+     <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="change_color_test"
         android:name="${applicationName}"
